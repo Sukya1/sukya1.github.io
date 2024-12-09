@@ -1,5 +1,4 @@
 remote_theme: pages-themes/modernist@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+plugins: - jekyll-remote-theme 
 title: A Semester of Digital Humanities
 description: This website documents the work of Sukya Williams during the Fall 24 Semester of the Digital Humanities course at the University of Pennsylvania
