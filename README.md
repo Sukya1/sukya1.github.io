@@ -1,5 +1,7 @@
-## Hello WOrld, Please help me get to the 16th oof dec
+## Reflection and Insights Grained From Experience
 
-# sukya1.github.io
 
-This is a link to [nvvsnfv re vn eiv ehv](about.html)
+Here is a list of some the work that I was able to achieve in this course: 
+- [Looking Forward after this experience](looking_forward.html)
+- [Printing In Prison Project]([about.html](https://printinginprisons.org/blog/williams-s/))
+
